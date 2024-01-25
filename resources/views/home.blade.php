@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Hello world!</h1>
-    <p>Abbiamo impiegato troppo tempo a scaricarti Laravel</p>
+    <p>Abbiamo impiegato troppo tempo a scaricarti Laravel </p>
 </body>
 </html>
